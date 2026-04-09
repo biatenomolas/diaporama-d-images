@@ -16,4 +16,4 @@ Un diaporama d'images réalisé en HTML, CSS et JavaScript.
 
 ## Auteur
 
-Nomolas Biate
+Salomon Biate
